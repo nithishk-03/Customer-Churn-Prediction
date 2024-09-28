@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 In today’s competitive banking environment, retaining customers is a significant challenge. This project is focused on predicting customer churn using historical customer data. By identifying the key factors that drive churn, banks can take preventative measures to reduce churn rates and improve customer retention.
 
 The project utilizes machine learning models to classify customers who are likely to leave the bank based on their account and personal details. Techniques like SHAP (SHapley Additive exPlanations) and Partial Dependence Plots (PDP) are used to interpret the model and make data-driven decisions.
